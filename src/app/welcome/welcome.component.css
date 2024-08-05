@@ -1,0 +1,56 @@
+.design{
+    background-color:#0A0E11;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10%;
+    height: 400px;
+    padding: 20px;
+    border-radius: 20px;
+    
+}
+
+.secTitle{
+    margin-top: 60px;
+}
+
+.hello{
+    color:#55CBC3;
+    font-size: 70px;
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+.welcome{
+    color: #55CBC3;
+}
+
+.nameInput{
+    color: aliceblue;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
+.name{
+    height: 100%;
+    padding-top:100px ;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+input{
+    margin-bottom: 10px;
+}
+
+
+.start{
+    border:1px solid #66fcf2;
+    color: #66fcf2;
+    padding: 9px 20px;
+    font-weight: 500;
+}
+
+.start:hover{
+    background-color: #55CBC3;
+    color: #0A0E11;
+}

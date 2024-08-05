@@ -1,0 +1,92 @@
+.card {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 10px;
+  background-color: #0A0E11;
+  border: none;
+  border-radius: 20px;
+}
+
+.quizLogo{
+  color: #DC3444;
+}
+
+.welcome {
+  color: rgba(255, 255, 255, 0.916);
+  font-weight: bold;
+  font-style: italic;
+}
+
+li {
+  list-style-type: none;
+  cursor: pointer;
+  margin: 10px 0;
+}
+
+li.card {
+  border: 1px solid rgb(242, 242, 245);
+}
+
+ol {
+  padding: 0;
+}
+
+.question {
+  background-color: #202833;
+  border-radius: 10px;
+  color: #66fcf2;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  letter-spacing: 2px;
+}
+
+.options {
+  background-color: #202833;
+  border-radius: 10px;
+  color:  rgba(255, 255, 255, 0.916);
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  letter-spacing: 2px;
+}
+
+.arrow{
+    color: #66fcf2;
+}
+
+.queCount{
+    color: rgba(255, 255, 255, 0.916);
+    font-style: italic;
+}
+
+.reset{
+  border:1px solid #66fcf2;
+  color: #66fcf2;
+  padding: 9px 20px;
+
+}
+
+.concon{
+  color:#D6A619;
+  font-style: italic;
+}
+
+h4{
+  color: rgba(255, 255, 255, 0.916);
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.result{
+  color: rgba(255, 255, 255, 0.916);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.correct{
+  color: #66fcf2;
+}
+
+.incorrect{
+  color: rgb(205, 49, 49);
+}
+
+.reset:hover{
+  background-color: #66fcf2;
+  color: #0A0E11;
+}
